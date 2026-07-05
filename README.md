@@ -8,8 +8,8 @@ Passionate Full Stack Developer specializing in building modern, scalable, and r
 
 # 🌐 Portfolio
 
-🔗 **Live Portfolio:**  
-**https://piyush-craft.netlify.app**
+🔗 **Live Portfolio**  
+https://piyush-craft.netlify.app
 
 Explore my portfolio to learn more about my experience, technical skills, and featured projects.
 
@@ -17,12 +17,12 @@ Explore my portfolio to learn more about my experience, technical skills, and fe
 
 # 👨‍💻 About Me
 
-- 💼 Full Stack Developer
+- 💼 Full Stack Developer with 3+ years of experience in web development.
 - ⚛️ Passionate about building scalable web applications.
 - 🚀 Strong knowledge of React.js, Node.js, Express.js & SQL Server.
 - 📱 Experienced in creating responsive and user-friendly interfaces.
 - 🔗 Skilled in REST API development and integration.
-- 🌱 Continuously learning new technologies and improving development skills.
+- 🌱 Continuously learning modern technologies.
 - 🤝 Open to collaboration and exciting development opportunities.
 
 ---
@@ -30,13 +30,14 @@ Explore my portfolio to learn more about my experience, technical skills, and fe
 # 💼 Professional Experience
 
 ### Software Developer
+
 **National Informatics Centre (NIC)**
 
-- Developed modern web applications using React.js.
-- Built responsive and user-friendly interfaces.
-- Developed and integrated REST APIs.
+- Developed enterprise web applications using React.js.
+- Built responsive and reusable UI components.
+- Developed and integrated REST APIs using Node.js & Express.js.
 - Worked with SQL Server databases.
-- Used Git & GitHub for version control and collaboration.
+- Used Git & GitHub for version control and team collaboration.
 
 ---
 
@@ -74,7 +75,8 @@ Explore my portfolio to learn more about my experience, technical skills, and fe
 
 ## 🦷 Dental Clinic Website
 
-🌐 **Live Website:**  
+🌐 **Live Website**
+
 https://dentohealthcare.in/
 
 - Modern Responsive Design
@@ -89,7 +91,8 @@ https://dentohealthcare.in/
 
 ## 💼 Portfolio Website
 
-🌐 **Live Website:**  
+🌐 **Live Website**
+
 https://piyush-craft.netlify.app
 
 - Modern Responsive UI
@@ -118,7 +121,21 @@ https://piyush-craft.netlify.app
 
 ---
 
-# 💻 Most Used Languages
+# 📊 GitHub Activity
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyushpandey09&show_icons=true&count_private=true&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Piyushpandey09&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushpandey09&layout=compact&theme=tokyonight)
 
@@ -136,16 +153,20 @@ https://piyush-craft.netlify.app
 
 # 📫 Let's Connect
 
-🌐 **Portfolio**  
+🌐 **Portfolio**
+
 https://piyush-craft.netlify.app
 
-💼 **LinkedIn**  
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/piyush-pandey-dev
 
-🐙 **GitHub**  
+🐙 **GitHub**
+
 https://github.com/Piyushpandey09
 
-📧 **Email**  
+📧 **Email**
+
 piyush.pandey5100@gmail.com
 
 ---
