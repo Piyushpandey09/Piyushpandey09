@@ -118,17 +118,6 @@ https://piyush-craft.netlify.app
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyushpandey09&show_icons=true&theme=tokyonight)
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Piyushpandey09&theme=tokyonight)
-
----
-
 # 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushpandey09&layout=compact&theme=tokyonight)
