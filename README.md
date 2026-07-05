@@ -4,12 +4,14 @@
 
 Passionate Full Stack Developer specializing in building modern, scalable, and responsive web applications using React.js, Node.js, Express.js, and SQL Server. I enjoy solving real-world problems and creating user-friendly digital experiences.
 
+🌐 **Portfolio:** https://piyush-craft.netlify.app
+
 ---
 
 ## 💼 Professional Summary
 
 - 💻 Full Stack Developer
-- ⚛️ Frontend: React.js, JavaScript, HTML5, CSS3
+- ⚛️ Frontend: React.js, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap
 - 🚀 Backend: Node.js, Express.js
 - 🗄️ Database: SQL Server
 - 🔗 REST API Development & Integration
@@ -68,7 +70,7 @@ Passionate Full Stack Developer specializing in building modern, scalable, and r
 - Personal Portfolio
 - Responsive Design
 - Projects Showcase
-
+- Contact Form
 
 ---
 
@@ -81,17 +83,27 @@ Passionate Full Stack Developer specializing in building modern, scalable, and r
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Let's Connect
 
-📧 Email: **piyush.pandey5100@gmail.com**
+🌍 **Portfolio:** https://piyush-craft.netlify.app
 
-💼 LinkedIn:  
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/piyush-pandey-dev
+
+📧 **Email:**  
+piyush.pandey5100@gmail.com
+
+🐙 **GitHub:**  
+https://github.com/Piyushpandey09
 
 ---
 
-### 💡 Motto
+## 💡 About Me
 
-> *"Write clean code, keep learning, and build products that create impact."*
+I enjoy turning ideas into real-world web applications with clean code, scalable architecture, and responsive user interfaces. I am always eager to learn new technologies and continuously improve my development skills by building practical projects.
 
-⭐ Thank you for visiting my GitHub profile!
+---
+
+> **"Write clean code, keep learning, and build products that create impact."** 🚀
+
+⭐ Thanks for visiting my GitHub profile!
