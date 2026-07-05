@@ -120,8 +120,7 @@ https://piyush-craft.netlify.app
 
 # 📊 GitHub Stats
 
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyushpandey09&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyushpandey09&show_icons=true&theme=tokyonight)
 ---
 
 # 🔥 GitHub Streak
